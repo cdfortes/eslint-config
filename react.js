@@ -35,6 +35,7 @@ module.exports = {
     }],
     'react/react-in-jsx-scope': 'off',
     'react/prop-types': 'off',
+    'react/self-closing-comp': 'error',
     'jsx-a11y/alt-text': [
       'warn',
       {
