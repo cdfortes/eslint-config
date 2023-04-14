@@ -1,12 +1,12 @@
 {
-  "name": "@rocketseat/eslint-config",
+  "name": "@cdfortes/eslint-config",
   "version": "1.2.0",
   "private": false,
   "description": "ESLint configuration used by Rocketseat.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "rocketseat/eslint-config-rocketseat"
+    "url": "cdfortes/eslint-config-rocketseat"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
